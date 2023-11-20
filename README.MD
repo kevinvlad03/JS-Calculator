@@ -36,8 +36,4 @@ Special thanks to the online resources, tutorials, and the supportive programmin
 
 If you'd like to contribute, please open an issue or submit a pull request. I appreciate any contributions and feedback!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Happy coding! 🚀✨
